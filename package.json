@@ -1,0 +1,25 @@
+{
+  "name": "qiscus-vacation",
+  "version": "1.0.0",
+  "description": "My hackathon to manage employee vacation",
+  "main": "index.js",
+  "repository": {
+    "url": "git@github.com:apiep/qiscus-vacation.git",
+    "type": "git"
+  },
+  "author": "Afief Sholichuddin <apiep.oedin@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "koa": "^1.2.4",
+    "koa-rest-router": "^1.0.0",
+    "koa-static": "^2.0.0",
+    "koa-webpack": "^0.1.1",
+    "react": "^15.3.2",
+    "react-redux": "^4.4.5",
+    "react-router": "^2.8.1",
+    "redux": "^3.6.0",
+    "seneca": "^3.2.1",
+    "sequelize": "^3.24.5",
+    "webpack": "2.1.0-beta.25"
+  }
+}
